@@ -1,6 +1,6 @@
 # Hi, I’m Mateo D. Williams 👋
 
-I hold **two Bachelor’s degrees**: one in **Physics** and one in **Data Science**, and I’m currently **pursuing two Master’s degrees** in the same fields.
+I hold **two Bachelor’s degrees**: one in **Physics** and one in **Data Science** (University of Buenos Aires), and I’m currently **pursuing two Master’s degrees** in the same fields.
 
 I focus on building **practical, end-to-end ML and data projects** — from data ingestion and modeling to deployment and monitoring.
 
